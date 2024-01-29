@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(FlinkTrial:assembly, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: assembly[0m
+[0m[[0m[31merror[0m] [0m[0mFlinkTrial:assembly[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
